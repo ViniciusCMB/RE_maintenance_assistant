@@ -1,0 +1,42 @@
+Service,0.5,5,10,15,20,25,30,35,40,45,50
+Engine Oil (Level check / Replace),R,I,R,I,R,I,R,I,R,I,R
+Oil Filter Element,R,,R,,R,,R,,R,,R
+Engine oil strainer on crankcase LH,C,,C,,C,,C,,C,,C
+Inlet / Exhaust Tappet setting,I&A,I&A,I&A,I&A,I&A,I&A,I&A,I&A,I&A,I&A,I&A
+"Rubber hose, Inlet manifold",I,I,R,I,R,I,R,I,R,I,R
+Oil cooler inlet & outlet pipes,I,I,I,R,I,I,R,I,I,R,I
+Spark plug,C&A,C&A,C&A,R,C&A,C&A,R,C&A,C&A,R,C&A
+HT leads for crack,I,I,I,I,I,I,R,I,I,I,I
+Fuel Hose,I,I,I,R,I,I,R,I,I,R,I
+Fuel Hose & Clip/ Injector 'O' ring/ Seal Ring,I,I,I,R,I,I,R,I,I,R,I
+Fuel Pump,I,I,I,I,I,I,I,I,I,I,I
+Air filter element,C,C,R,C,R,C,R,C,R,C,R
+Accelerator Cable,I,I,R,I,R,I,R,I,R,I,R
+"Rubber Hose, Air filter to Throttle body",I,I,R,I,R,I,R,I,R,I,R
+PAV pipes & Hose clip,I,I,I,I,I,R,I,I,I,I,R
+Throttle body - Cleaning spray,,C,C,C,C,C,C,C,C,C,C
+Clutch Cable,I,I,R,I,R,I,R,I,R,I,R
+Clutch free play,A,A,A,A,A,A,A,A,A,A,A
+Clutch no slippage,I,I,I,I,I,I,I,I,I,I,I
+Clutch Plates,,,,R,,,R,,,R,
+Cam Chain / Chain Pads / Auto chain Tensioner,I,I,I,I,I,I,I,I,I,I,I&R
+Inlet / Exhaust valve seating (compression test),,,,,,I,,,,,I
+Steering head bearings,I&A,I&A,L&A,I&A,L&A,I&R,I&A,L&A,I&A,L&A,I&R
+Front Fork oil,I,I,I,R,I,I,R,I,I,R,I
+Fuel Pipe,I,I,R,I,R,I,R,I,R,I,R
+Battery terminals (apply petroleum jelly),C,C,C,C,C,C,C,C,C,C,C
+Earth wire eyelet Tightness,,,I,,I,,I,,I,,I
+Hydraulic Brake Fluid - Front & Rear,I,I,R,I,R,I,R,I,R,I,I
+Hydraulic Brake hose & Washers - Front & Rear,I,I,I,I,R,I,I,I,R,I,I
+Brake Pads - Front & Rear,I,I,R,I,R,I,R,I,R,I,R
+Tyrewear pattern (Front & Rear),I,I,I,I,I,R,I,I,I,I,R
+Spokes tightness / Wheel rim run out front & rear,I,I,I,I,I,I,I,I,I,I,I
+Front & Rear wheel bearings for play,I,I,I,I,I,I&R,I,I,I,I,I&R
+Swing arm Pivot bearings,I&L,I&L,I&L,I&L,I&L,I&L,I&L,I&L,I&L,I&L,I&R
+Rear Suspension Linkages,I,I&L,I&L,I&R,I&L,I&L,I&R,I&L,I&L,I&R,I&L
+Rear Drive Chain,C&L&A,C&L&A,C&L&A,C&L&A,C&L&A,C&L&A,C&L&A,C&L&A,C&L&A,C&L&A,C&L&A
+Drive chain & Sprockets set,I,I,R,I,R,I,R,I,R,I,R
+Rear wheel cush drive rubbers,I,I,R,I,R,I,R,I,R,I,R
+All Mounting Fasteners in vehicle for tightness,I,I,I,I,I,I,I,I,I,I,I
+"Hand levers, side stand, Rider & Pillion foot rest Pivots",L,L,L,L,L,L,L,L,L,L,L
+Evaporative Emission Equipment rubber hoses,I,I,I,R,I,I,R,I,I,R,I
