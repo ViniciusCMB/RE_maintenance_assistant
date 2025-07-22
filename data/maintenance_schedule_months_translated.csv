@@ -1,42 +1,42 @@
 Service,1.5,6,12,18,24,30,36,42,48,54,60
-Engine Oil (Lubricateevel check / Replaceeplace),Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
+Engine Oil (Level check / Replace),Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
 Oil Filter Element,Replace,,Replace,,Replace,,Replace,,Replace,,Replace
-Engine oil strainer on crankcase LubricateH,Clean,,Clean,,Clean,,Clean,,Clean,,Clean
-Inspectnlet / Exhaust Tappet setting,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust
-"Replaceubber hose, Inspectnlet manifold",Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
+Engine oil strainer on crankcase LH,Clean,,Clean,,Clean,,Clean,,Clean,,Clean
+Inlet / Exhaust Tappet setting,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust,Inspect&Adjust
+"Rubber hose, Inlet manifold",Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
 Oil cooler inlet & outlet pipes,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect
 Spark plug,Clean&Adjust,Clean&Adjust,Clean&Adjust,Replace,Clean&Adjust,Clean&Adjust,Replace,Clean&Adjust,Clean&Adjust,Replace,Clean&Adjust
 HT leads for crack,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Inspect,Inspect
 Fuel Hose,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect
-Fuel Hose & Cleanlip/ Inspectnjector 'O' ring/ Seal Replaceing,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect
+Fuel Hose & Clip/ Injector 'O' ring/ Seal Ring,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect
 Fuel Pump,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect
-Adjustir filter element,Clean,Clean,Replace,Clean,Replace,Clean,Replace,Clean,Replace,Clean,Replace
-Adjustccelerator Cleanable,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
-"Replaceubber Hose, Adjustir filter to Throttle body",Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
-PAdjustV pipes & Hose clip,Inspect,Inspect,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Inspect,Inspect,Replace
-Throttle body - Cleanleaning spray,,Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean
-Cleanlutch Cleanable,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
-Cleanlutch free play,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust
-Cleanlutch no slippage,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect
-Cleanlutch Plates,,,,Replace,,,Replace,,,Replace,
-Cleanam Cleanhain / Cleanhain Pads / Adjustuto chain Tensioner,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect&Replace
-Inspectnlet / Exhaust valve seating (compression test),,,,,,Inspect,,,,,Inspect
+Air filter element,Clean,Clean,Replace,Clean,Replace,Clean,Replace,Clean,Replace,Clean,Replace
+Accelerator Cable,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
+"Rubber Hose, Air filter to Throttle body",Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
+PAV pipes & Hose clip,Inspect,Inspect,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Inspect,Inspect,Replace
+Throttle body - Cleaning spray,,Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean
+Clutch Cable,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
+Clutch free play,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust,Adjust
+Clutch no slippage,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect
+Clutch Plates,,,,Replace,,,Replace,,,Replace,
+Cam Chain / Chain Pads / Auto chain Tensioner,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect&Replace
+Inlet / Exhaust valve seating (compression test),,,,,,Inspect,,,,,Inspect
 Steering head bearings,Inspect&Adjust,Inspect&Adjust,Lubricate&Adjust,Inspect&Adjust,Lubricate&Adjust,Inspect&Replace,Inspect&Adjust,Lubricate&Adjust,Inspect&Adjust,Lubricate&Adjust,Inspect&Replace
 Front Fork oil,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect
 Fuel Pipe,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
 Battery terminals (apply petroleum jelly),Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean,Clean
 Earth wire eyelet Tightness,,,Inspect,,Inspect,,Inspect,,Inspect,,Inspect
-Hydraulic Brake Fluid - Front & Replaceear,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Inspect
-Hydraulic Brake hose & Washers - Front & Replaceear,Inspect,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Inspect,Replace,Inspect,Inspect
-Brake Pads - Front & Replaceear,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
-Tyrewear pattern (Front & Replaceear),Inspect,Inspect,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Inspect,Inspect,Replace
+Hydraulic Brake Fluid - Front & Rear,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Inspect
+Hydraulic Brake hose & Washers - Front & Rear,Inspect,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Inspect,Replace,Inspect,Inspect
+Brake Pads - Front & Rear,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
+Tyrewear pattern (Front & Rear),Inspect,Inspect,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Inspect,Inspect,Replace
 Spokes tightness / Wheel rim run out front & rear,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect
-Front & Replaceear wheel bearings for play,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect&Replace,Inspect,Inspect,Inspect,Inspect,Inspect&Replace
+Front & Rear wheel bearings for play,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect&Replace,Inspect,Inspect,Inspect,Inspect,Inspect&Replace
 Swing arm Pivot bearings,Inspect&Lubricate,Inspect&Lubricate,Inspect&Lubricate,Inspect&Lubricate,Inspect&Lubricate,Inspect&Lubricate,Inspect&Lubricate,Inspect&Lubricate,Inspect&Lubricate,Inspect&Lubricate,Inspect&Replace
-Replaceear Suspension Lubricateinkages,Inspect,Inspect&Lubricate,Inspect&Lubricate,Inspect&Replace,Inspect&Lubricate,Inspect&Lubricate,Inspect&Replace,Inspect&Lubricate,Inspect&Lubricate,Inspect&Replace,Inspect&Lubricate
-Replaceear Drive Cleanhain,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust
+Rear Suspension Linkages,Inspect,Inspect&Lubricate,Inspect&Lubricate,Inspect&Replace,Inspect&Lubricate,Inspect&Lubricate,Inspect&Replace,Inspect&Lubricate,Inspect&Lubricate,Inspect&Replace,Inspect&Lubricate
+Rear Drive Chain,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust,Clean&Lubricate&Adjust
 Drive chain & Sprockets set,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
-Replaceear wheel cush drive rubbers,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
-Adjustll Mounting Fasteners in vehicle for tightness,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect
-"Hand levers, side stand, Replaceider & Pillion foot rest Pivots",Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate
+Rear wheel cush drive rubbers,Inspect,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace,Inspect,Replace
+All Mounting Fasteners in vehicle for tightness,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect,Inspect
+"Hand levers, side stand, Rider & Pillion foot rest Pivots",Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate,Lubricate
 Evaporative Emission Equipment rubber hoses,Inspect,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect,Inspect,Replace,Inspect

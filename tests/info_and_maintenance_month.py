@@ -1,16 +1,14 @@
 import pandas as pd
 
-# Carrega os CSVs
+# Load the maintenance schedule and services data
 maintenance_df = pd.read_csv('data/maintenance_schedule_months.csv')
 services_df = pd.read_csv('data/maintenance_services.csv')
 
-# Constrói o dicionário correto de símbolo para ação
+# Create a mapping from symbols to actions
 symbol_to_action = dict(zip(services_df['Symbol'], services_df['Action']))
 print(symbol_to_action)
 
-# Função para substituir dentro de cada célula
-
-
+# Function to translate cell values based on the mapping
 def translate_cell(cell):
     if pd.isna(cell):
         return cell
@@ -19,15 +17,14 @@ def translate_cell(cell):
     return cell
 
 
-# Protege a escolha das colunas
-service_columns = maintenance_df.columns.drop(
-    'Months') if 'Months' in maintenance_df.columns else maintenance_df.columns
+# Get the columns that contain service information
+service_columns = maintenance_df.columns.drop('Service') if 'Service' in maintenance_df.columns else maintenance_df.columns
 
-# Aplica a tradução apenas nas colunas de serviço
+# Apply the translation to the service columns
 maintenance_df[service_columns] = maintenance_df[service_columns].applymap(
     translate_cell)
 
-# Salva o resultado
+# Save the translated DataFrame to a new CSV file
 maintenance_df.to_csv(
     'data/maintenance_schedule_months_translated.csv', index=False)
 
