@@ -141,7 +141,7 @@ print(maintenance_10k)
 
 ### Fase 2: Interface Gráfica 🔄
 
-- [ ] Design da interface do usuário
+- [x] Design da interface do usuário
 - [ ] Implementação com Flask
 - [ ] Sistema de entrada de dados
 - [ ] Visualização de resultados

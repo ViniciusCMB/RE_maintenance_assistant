@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>RE Manutenções</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/app.css') }}"
+    />
+  </head>
+  <body>
+    <div class="navbar">
+      <div class="logo-div">
+        <img
+          src="{{ url_for('static', filename='assets/LOGO_RE.png') }}"
+          alt="Logo"
+          class="logo"
+        />
+        <h1>Assistente de Manutenções Royal Enfield</h1>
+      </div>
+      <div class="menu-list">
+        <a href="/home"><h2>Home</h2></a>
+        <a href="/sobre"><h2>Sobre</h2></a>
+      </div>
+    </div>
+    {% block content %} {% endblock %}
+  </body>
+</html>

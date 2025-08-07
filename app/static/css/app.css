@@ -1,0 +1,53 @@
+:root {
+  --red: #fe2414;
+  --yllw: #ebab00;
+  --black: #222326;
+}
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background: var(--black);
+  color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: var(--red);
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.menu-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.menu-list a {
+  color: var(--yllw);
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 1rem;
+}
+
+.menu-list a:hover {
+  text-decoration: underline;
+}
+
+.logo-div {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.logo {
+  max-width: 50px;
+  max-height: 50px;
+  width: auto;
+  height: auto;
+  margin: 10px;
+}
